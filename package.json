@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://awprakoso.github.io/",
+  "homepage": "https://awprakoso.github.io/itsavirus",
   "name": "itsavirus",
   "version": "0.1.0",
   "private": true,
@@ -45,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
